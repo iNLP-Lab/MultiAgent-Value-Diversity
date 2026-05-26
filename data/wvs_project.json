@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "dimension": "Religious Values",
+    "name": "Traditional Religious Heritage Festival",
+    "category": "Culture",
+    "cost": 10000,
+    "description": "Funding community festivals and educational programs that preserve traditional religious customs, ceremonies, and local cultural heritage."
+  },
+  {
+    "id": 2,
+    "dimension": "Security",
+    "name": "Smart Public Safety Camera Network",
+    "category": "Security",
+    "cost": 10000,
+    "description": "Expanding AI-assisted public surveillance cameras and emergency response systems to improve urban safety and crime prevention."
+  },
+  {
+    "id": 3,
+    "dimension": "Corruption",
+    "name": "Transparent Public Spending Platform",
+    "category": "Transparency",
+    "cost": 10000,
+    "description": "Creating an open digital platform that allows citizens to track government spending, procurement, and public project budgets."
+  },
+  {
+    "id": 4,
+    "dimension": "Economic Values",
+    "name": "Industrial Growth and Job Creation Program",
+    "category": "Economy",
+    "cost": 10000,
+    "description": "Supporting local manufacturing, industrial infrastructure, and employment growth through public investment programs."
+  },
+  {
+    "id": 5,
+    "dimension": "Science & Technology",
+    "name": "Public AI and Technology Innovation Hub",
+    "category": "Technology",
+    "cost": 10000,
+    "description": "Establishing community AI labs, robotics education centers, and startup incubation programs for emerging technologies."
+  },
+  {
+    "id": 6,
+    "dimension": "Political Interest & Political Participation",
+    "name": "Community Civic Participation Centers",
+    "category": "Civic Participation",
+    "cost": 10000,
+    "description": "Funding local civic centers that organize public discussions, citizen assemblies, and participatory decision-making activities."
+  },
+  {
+    "id": 7,
+    "dimension": "Political Culture & Political Regimes",
+    "name": "National Institutions and Public Leadership Education",
+    "category": "Institutions",
+    "cost": 10000,
+    "description": "Supporting public education programs on national institutions, governance systems, civic responsibility, and political leadership."
+  },
+  {
+    "id": 8,
+    "dimension": "Postmaterialist Index",
+    "name": "Climate Sustainability and Green Energy Initiative",
+    "category": "Environment",
+    "cost": 10000,
+    "description": "Investing in renewable energy, carbon reduction projects, urban sustainability programs, and environmental protection initiatives."
+  },
+  {
+    "id": 9,
+    "dimension": "Social Capital, Trust & Organizational Membership",
+    "name": "Neighborhood Community Cooperation Program",
+    "category": "Community",
+    "cost": 10000,
+    "description": "Supporting local volunteer organizations, neighborhood associations, and public community-building activities."
+  },
+  {
+    "id": 10,
+    "dimension": "Ethical Values and Norms",
+    "name": "Public Ethics and Integrity Education Campaign",
+    "category": "Education",
+    "cost": 10000,
+    "description": "Funding educational campaigns promoting honesty, social responsibility, anti-corruption awareness, and ethical public behavior."
+  },
+  {
+    "id": 11,
+    "dimension": "Social Values, Attitudes & Stereotypes",
+    "name": "Social Inclusion and Diversity Support Initiative",
+    "category": "Social Inclusion",
+    "cost": 10000,
+    "description": "Supporting programs that promote social inclusion, reduce discrimination, and encourage understanding across different social groups."
+  },
+  {
+    "id": 12,
+    "dimension": "Migration",
+    "name": "Immigrant Integration and Language Support Centers",
+    "category": "Migration",
+    "cost": 10000,
+    "description": "Providing language education, job assistance, and community integration services for immigrants and refugees."
+  },
+  {
+    "id": 13,
+    "dimension": "Happiness and Well-being",
+    "name": "Public Mental Health and Well-being Initiative",
+    "category": "Health",
+    "cost": 10000,
+    "description": "Expanding public mental health support, community wellness activities, and accessible counseling services."
+  }
+]
