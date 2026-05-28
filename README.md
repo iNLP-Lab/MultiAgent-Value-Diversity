@@ -2,6 +2,8 @@
 
 The official code of Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems.
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ff671f47-a151-4972-9cae-62c195f5bd64" />
+
 ## Set up
 
 Python 3.12.0.
